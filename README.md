@@ -72,4 +72,5 @@ Python과 PyGame을 활용하여 제작한 교육용 구급차 시뮬레이션 �
 * 📊 **발표 자료**:
   * [PPT 보기 (Google Slides)](https://docs.google.com/presentation/d/1RKz149_N48ay9aDfaBS34H3UiVk8aZ8GbrV_SuZA6zk/edit?usp=drive_link)
   * [PDF 다운로드 (Google Drive)](https://drive.google.com/file/d/1TbUBW9PvNKOi44PRwGicIKUmCwa6w_65/view?usp=drive_link)
-* 🎬 **시연 영상**: [Google Drive 링크](https://drive.google.com/file/d/12j-dLCgtlBUXx03O5vuu3zFv3X1QPadX/view?usp=drive_link)
+* 🎬 **시연 영상**: [Google Drive 링크](https://drive.google.com/file/d/1dglFAZK7H0RgfRZSPC2nccm7OPdZavpF/view?usp=drive_link)
+
