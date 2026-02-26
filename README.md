@@ -14,8 +14,8 @@ Python과 PyGame을 활용하여 제작한 교육용 구급차 시뮬레이션 �
 
 ## 1. 💡 기획 및 시나리오
 
-* **기획 의도**: 응급 상황 발생 시 '골든타임' 내에 빠른 처치가 생명을 좌우하는 중요성을 인식시키고, 긴급차량에 대한 우선 통행 비협조 문제(경찰차 논란 사례 등)를 해결하기 위해 기획되었습니다.
-* **게임 목적**: 골든타임이라는 제한된 시간 내에 도로 위의 장애물을 피해 환자를 제시간에 무사히 병원으로 이송하는 것입니다.
+* **기획 의도**: 응급 상황 발생 시 **골든타임** 내에 빠른 처치가 생명을 좌우하는 중요성을 인식시키고, 긴급차량에 대한 우선 통행 비협조 문제(경찰차 논란 사례 등)를 해결하기 위해 기획되었습니다.
+* **게임 목적**: **골든타임**이라는 제한된 시간 내에 도로 위의 장애물을 피해 환자를 제시간에 무사히 병원으로 이송하는 것입니다.
 * **사전 조사**: 응급 환자의 구분은 KTAS(한국형 응급환자 분류도구) 분류 기준을 따랐으며, 2024년 통계에서 전국 구급차의 절반 이상이 환자에게 제시간에 도착하지 못하는 현실적인 문제점을 게임 배경에 반영했습니다.
 
 ---
@@ -73,5 +73,6 @@ Python과 PyGame을 활용하여 제작한 교육용 구급차 시뮬레이션 �
   * [PPT 보기 (Google Slides)](https://docs.google.com/presentation/d/1RKz149_N48ay9aDfaBS34H3UiVk8aZ8GbrV_SuZA6zk/edit?usp=drive_link)
   * [PDF 다운로드 (Google Drive)](https://drive.google.com/file/d/1TbUBW9PvNKOi44PRwGicIKUmCwa6w_65/view?usp=drive_link)
 * 🎬 **시연 영상**: [Google Drive 링크](https://drive.google.com/file/d/1dglFAZK7H0RgfRZSPC2nccm7OPdZavpF/view?usp=drive_link)
+
 
 
