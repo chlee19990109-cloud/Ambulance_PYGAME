@@ -33,7 +33,7 @@ PyGame을 활용하여 제작한 'PYGAME (Paramedics! Yield to Guardians Against
 
 
 
-자료 모음: https://drive.google.com/drive/folders/1s2ojp0wDm5x69ODG326ATrcfTfS4tirZ?usp=drive_link
+게임 파일: https://drive.google.com/file/d/12j-dLCgtlBUXx03O5vuu3zFv3X1QPadX/view?usp=drive_link
 
 프로젝트 기획안: https://drive.google.com/file/d/1vRSwhpQz-n4YmiBMbc3uSGyo8Jp6yIgi/view?usp=drive_link
 
