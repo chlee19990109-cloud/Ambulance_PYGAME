@@ -121,7 +121,7 @@ except FileNotFoundError:
 
 
 # 🔹 배경 이미지 로드
-image_path = "resources/"
+image_path = "C:/Users/asia/Downloads/PYGAME_team3/resources/"
 try:
  s_d_background = pygame.image.load(image_path + "s_d.png")
  s_d_background = pygame.transform.scale(s_d_background, screen_size)
